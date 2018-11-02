@@ -11,7 +11,7 @@ Node.js | Npm | Gulp
 
 ## Download Project
 
-    $ git clone https://github.com/neethu93/dept-assignment/PROJECT.git
+    $ git clone https://github.com/neethu93/dept-assignment.git
 
 	
 ## Install dependencies from package.json
