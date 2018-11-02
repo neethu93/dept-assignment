@@ -40,7 +40,7 @@ Node.js | Npm | Gulp
 	Open index.html from ./app/index.html
 	
 	
-##Things considered for this assignment
+## Things considered for this assignment
 
 Responsive design
 Lazy Loading of images
@@ -48,7 +48,7 @@ Accessibility
 Fluid typography
 Simple animation effects on places like 'back to top' scroll button, menu etc
 
-##Things not considered for this assignment due to time constraints
+## Things not considered for this assignment due to time constraints
 
 Browser compatibility
 Pixel perfection in design
