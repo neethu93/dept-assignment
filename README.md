@@ -53,7 +53,8 @@ Simple animation effects on places like 'back to top' scroll button, menu etc
 Browser compatibility
 Pixel perfection in design
 sass optimization
-Workingon windows and hence issues with sketch
+Working on windows and hence issues with sketch
+Only mobile devices are considered during responsive design (Single break point, 768px)
 
 ## Hours worked on this assignment
 
